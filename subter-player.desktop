@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Subter Player
-Exec=/home/lx/.local/share/Subter/Versions/version-ed68ff5dd2f54d2b/SubterPlayerLinuxLauncher %u
+Exec=/home/PUT UR USER HERE/.local/share/Subter/Versions/version-ed68ff5dd2f54d2b/SubterPlayerLinuxLauncher %u
 Type=Application
 NoDisplay=false
 MimeType=x-scheme-handler/subter-player;
